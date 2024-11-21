@@ -1,1 +1,1 @@
-# FinaApp
+# FinApp
